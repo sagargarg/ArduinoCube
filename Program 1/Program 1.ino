@@ -1,8 +1,3 @@
-//4x4x4 LED Cube Show 2
-//By: Tyler Manders
-//I wrote this one myself, enjoy!
-
-
 #include <avr/pgmspace.h> // allows use of PROGMEM to store patterns in flash
 
 #define CUBESIZE 4
